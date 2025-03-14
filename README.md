@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 🌱 I’m currently learning deep learning, AI, IoT, and embedded systems.
 <!--
 **fush0528/fush0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
